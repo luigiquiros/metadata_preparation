@@ -1,0 +1,511 @@
+filename,ATTRIBUTE_Code,ATTRIBUTE_Replicate,ATTRIBUTE_polarity,ATTRIBUTE_Type,ATTRIBUTE_Family,ATTRIBUTE_Genus,ATTRIBUTE_Species,ATTRIBUTE_Organe,ATTRIBUTE_Broad_organ,ATTRIBUTE_Tissue,ATTRIBUTE_Subsystem,ATTRIBUTE_Sppart
+LQ-01-61-01_01_pos.mzML,V107694 ,1,positive,Sample,Celastraceae,Catha,Catha edulis,Leaves,photosynthetic,green tissue,aboveground,Catha_edulis|Leaves
+LQ-01-61-02_01_pos.mzML,V107695,1,positive,Sample,Celastraceae,Catha,Catha edulis,Stems,woody vegetative,woody tissue,aboveground,Catha_edulis|Stems
+LQ-01-61-03_01_pos.mzML,V107696,1,positive,Sample,Celastraceae,Catha,Catha edulis,Roots,roots,root tissue,belowground,Catha_edulis|Roots
+LQ-01-61-04_01_pos.mzML,V114502,1,positive,Sample,Celastraceae,Catha,Catha edulis,Aerial_parts,multiple,multiple,aboveground,Catha_edulis |Aerial_parts
+LQ-01-61-05_01_pos.mzML,V103080,1,positive,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Stems,woody vegetative,woody tissue,aboveground,Celastrus_orbiculatus|Stems
+LQ-01-61-06_01_pos.mzML,V111863,1,positive,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Roots,roots,root tissue,belowground,Celastrus_orbiculatus|Roots
+LQ-01-61-07_01_pos.mzML,V100029,1,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Seeds,reproductive,green tissue,aboveground,Celastrus_paniculatus|Graines
+LQ-01-61-08_01_pos.mzML,V105603,1,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Leaves,photosynthetic,green tissue,aboveground,Celastrus_paniculatus|Leaves
+LQ-01-61-09_01_pos.mzML,V105604,1,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Bark_tronc,woody vegetative,woody tissue,aboveground,Celastrus_paniculatus|Bark_tronc
+LQ-01-61-10_01_pos.mzML,V108295,1,positive,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Leaves,photosynthetic,green tissue,aboveground,Elaeodendron_schweinfurthianum|Leaves
+LQ-01-61-11_01_pos.mzML,V108296,1,positive,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Stems,woody vegetative,woody tissue,aboveground,Elaeodendron_schweinfurthianum|Stems
+LQ-01-61-12_01_pos.mzML,V113977,1,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Leaves,photosynthetic,green tissue,aboveground,Evonympsis_sp|Leaves
+LQ-01-61-12_02_pos.mzML,V113977,2,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Leaves,photosynthetic,green tissue,aboveground,Evonympsis_sp|Leaves
+LQ-01-61-12_03_pos.mzML,V113977,3,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Leaves,photosynthetic,green tissue,aboveground,Evonympsis_sp|Leaves
+LQ-01-61-15_01_pos.mzML,V104538,1,positive,Sample,Celastraceae,Euonymus,Euonymus alatus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_alatus|Stems
+LQ-01-61-16_01_pos.mzML,V104539,1,positive,Sample,Celastraceae,Euonymus,Euonymus alatus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_alatus|Leaves
+LQ-01-61-17_01_pos.mzML,V110858,1,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Roots,roots,root tissue,belowground,Euonymus_bockii|Roots
+LQ-01-61-18_01_pos.mzML,V110859,1,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Stems,woody vegetative,woody tissue,aboveground,Euonymus_bockii|Stems
+LQ-01-61-19_01_pos.mzML,V110860,1,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Leaves,photosynthetic,green tissue,aboveground,Euonymus_bockii|Leaves
+LQ-01-61-20_01_pos.mzML,V105442,1,positive,Sample,Celastraceae,Euonymus,Euonymus bungeanus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_bungeanus|Stems
+LQ-01-61-21_01_pos.mzML,V116403,1,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Euonymus_cochinchinensis|Branche
+LQ-01-61-22_01_pos.mzML,V116404,1,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Roots,roots,root tissue,belowground,Euonymus_cochinchinensis|Roots
+LQ-01-61-23_01_pos.mzML,V116406,1,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_cochinchinensis|Leaves
+LQ-01-61-24_01_pos.mzML,V110861,1,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Roots,roots,root tissue,belowground,Euonymus_fertilis|Roots
+LQ-01-61-25_01_pos.mzML,V110862,1,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Stems,woody vegetative,woody tissue,aboveground,Euonymus_fertilis|Stems
+LQ-01-61-26_01_pos.mzML,V110863,1,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_fertilis|Leaves
+LQ-01-61-27_01_pos.mzML,V105253,1,positive,Sample,Celastraceae,Euonymus,Euonymus fortunei,Aerial_parts,multiple,multiple,aboveground,Euonymus_fortunei|Aerial_parts
+LQ-01-61-28_01_pos.mzML,V113153,1,positive,Sample,Celastraceae,Euonymus,Euonymus grandiflorus,Bark_Stems,woody vegetative,woody tissue,aboveground,Euonymus_grandiflorus|Bark_Stems
+LQ-01-61-29_01_pos.mzML,V114337,1,positive,Sample,Celastraceae,Euonymus,Euonymus javanicus,Bark_tronc,woody vegetative,woody tissue,aboveground,Euonymus_javanicus|Bark_tronc
+LQ-01-61-30_01_pos.mzML,V114338,1,positive,Sample,Celastraceae,Euonymus,Euonymus javanicus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_javanicus|Leaves
+LQ-01-61-31_01_pos.mzML,V110309,1,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Roots,roots,root tissue,belowground,Euonymus_jinfoshanensis|Roots
+LQ-01-61-32_01_pos.mzML,V110310,1,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Stems,woody vegetative,woody tissue,aboveground,Euonymus_jinfoshanensis|Stems
+LQ-01-61-33_01_pos.mzML,V110311,1,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_jinfoshanensis|Leaves
+LQ-01-61-34_01_pos.mzML,V111793,1,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Roots,roots,root tissue,belowground,Euonymus_myrianthus|Roots
+LQ-01-61-35_01_pos.mzML,V111794,1,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_myrianthus|Stems
+LQ-01-61-36_01_pos.mzML,V111795,1,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_myrianthus|Leaves
+LQ-01-61-37_01_pos.mzML,V111409,1,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Roots,roots,root tissue,belowground,Euonymus_sanguineus|Roots
+LQ-01-61-38_01_pos.mzML,V111410,1,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_sanguineus|Stems
+LQ-01-61-39_01_pos.mzML,V111411,1,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_sanguineus|Leaves
+LQ-01-61-40_01_pos.mzML,V114012,1,positive,Sample,Celastraceae,Hippocratea,Hippocratea urceolus,Leaves,photosynthetic,green tissue,aboveground,Hippocratea_urceolus|Leaves
+LQ-01-61-41_01_pos.mzML,V107269,1,positive,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Stems,woody vegetative,woody tissue,aboveground,Loeseneriella_concinna|Stems
+LQ-01-61-42_01_pos.mzML,V108472,1,positive,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Leaves,photosynthetic,green tissue,aboveground,Loeseneriella_concinna|Leaves
+LQ-01-61-43_01_pos.mzML,V108332,1,positive,Sample,Celastraceae,Maytenus,Maytenus buchananii,Leaves,photosynthetic,green tissue,aboveground,Maytenus_buchananii|Leaves
+LQ-01-61-44_01_pos.mzML,V108333,1,positive,Sample,Celastraceae,Maytenus,Maytenus buchananii,Stems,woody vegetative,woody tissue,aboveground,Maytenus_buchananii|Stems
+LQ-01-61-45_01_pos.mzML,V101528,1,positive,Sample,Celastraceae,Maytenus,Maytenus cymosus,Bark_Stems,woody vegetative,woody tissue,aboveground,Maytenus_cymosus|Bark_Stems
+LQ-01-61-46_01_pos.mzML,V113998,1,positive,Sample,Celastraceae,Maytenus,Maytenus linearis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_linearis|Leaves
+LQ-01-61-47_01_pos.mzML,V113999,1,positive,Sample,Celastraceae,Maytenus,Maytenus linearis,Underground_parts,multiple,multiple,belowground,Maytenus_linearis|Underground_parts
+LQ-01-61-48_01_pos.mzML,V105100,1,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_mekongensis|Leaves
+LQ-01-61-49_01_pos.mzML,V105101,1,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Stems,woody vegetative,woody tissue,aboveground,Maytenus_mekongensis|Stems
+LQ-01-61-50_01_pos.mzML,V105102,1,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Roots,roots,root tissue,belowground,Maytenus_mekongensis|Roots
+LQ-01-61-51_01_pos.mzML,V106281,1,positive,Sample,Celastraceae,Maytenus,Maytenus polycantha,Aerial_parts,multiple,multiple,aboveground,Maytenus_polycantha|Aerial_parts
+LQ-01-61-52_01_pos.mzML,V116016,1,positive,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_senegalensis|Leaves
+LQ-01-61-53_01_pos.mzML,V116017,1,positive,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Stems,woody vegetative,woody tissue,aboveground,Maytenus_senegalensis|Stems
+LQ-01-61-54_01_pos.mzML,V105698,1,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Leaves,photosynthetic,green tissue,aboveground,Maytenus_undata|Leaves
+LQ-01-61-55_01_pos.mzML,V105699,1,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Stems,woody vegetative,woody tissue,aboveground,Maytenus_undata|Stems
+LQ-01-61-56_01_pos.mzML,V109319,1,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Roots,roots,root tissue,belowground,Maytenus_undata|Roots
+LQ-01-61-57_01_pos.mzML,V107914,1,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Roots,roots,root tissue,belowground,Microtropis_triflora|Roots
+LQ-01-61-58_01_pos.mzML,V107915,1,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Stems,woody vegetative,woody tissue,aboveground,Microtropis_triflora|Stems
+LQ-01-61-59_01_pos.mzML,V107916,1,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Leaves,photosynthetic,green tissue,aboveground,Microtropis_triflora|Leaves
+LQ-01-61-60_01_pos.mzML,V102807,1,positive,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Bark_Stems,woody vegetative,woody tissue,aboveground,Mystroxylon_aethiopicum|Bark_Stems
+LQ-01-61-61_01_pos.mzML,V103478,1,positive,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Leaves,photosynthetic,green tissue,aboveground,Mystroxylon_aethiopicum|Leaves
+LQ-01-61-62_01_pos.mzML,V107716,1,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia africana,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_africana|Leaves
+LQ-01-61-63_01_pos.mzML,V100713,1,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Stems,woody vegetative,woody tissue,aboveground,Pleurostylia_pachyphloe|Stems
+LQ-01-61-64_01_pos.mzML,V100727,1,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_pachyphloe|Leaves
+LQ-01-61-65_01_pos.mzML,V113494,1,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_chinensis|Leaves
+LQ-01-61-66_01_pos.mzML,V113495,1,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Branche,woody vegetative,woody tissue,aboveground,Salacia_chinensis|Branche
+LQ-01-61-67_01_pos.mzML,V113496,1,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Roots,roots,root tissue,belowground,Salacia_chinensis|Roots
+LQ-01-61-68_01_pos.mzML,V114998,1,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_cochinchinensis|Leaves
+LQ-01-61-69_01_pos.mzML,V114999,1,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Salacia_cochinchinensis|Branche
+LQ-01-61-70_01_pos.mzML,V115000,1,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Underground_parts,multiple,multiple,belowground,Salacia_cochinchinensis|Underground_parts
+LQ-01-61-71_01_pos.mzML,V102387,1,positive,Sample,Celastraceae,Salacia,Salacia prinoides,Indeterminated,multiple,multiple,multiple,Salacia_prinoides|Indeterminated
+LQ-01-61-72_01_pos.mzML,V102634,1,positive,Sample,Celastraceae,Salacia,Salacia letestuana,Fruits,reproductive,green tissue,aboveground,Salacia_letestuana|Fruits
+LQ-01-61-73_01_pos.mzML,V109564,1,positive,Sample,Celastraceae,Tripterygium,Tripterygium hypoglacum,Roots,roots,root tissue,belowground,Tripterygium_hypoglacum |Roots
+LQ-01-61-74_01_pos.mzML,V107005,1,positive,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Roots,roots,root tissue,belowground,Tripterygium_wilfordii|Roots
+LQ-01-61-75_01_pos.mzML,V107006,1,positive,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Stems,woody vegetative,woody tissue,aboveground,Tripterygium_wilfordii|Stems
+LQ-01-61-76_01_pos.mzML,NA,1,positive,Blank_process,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-78_01_pos.mzML,V113570,1,positive,Sample,Celastraceae,Reissantia,Reissantia indica,Roots,roots,root tissue,belowground,Reissantia_indica|Roots
+LQ-QC-01_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-02_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-03_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-04_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-05_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-06_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-07_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-08_01_pos.mzML,NA,1,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-01_02_pos.mzML,V107694 ,2,positive,Sample,Celastraceae,Catha,Catha edulis,Leaves,photosynthetic,green tissue,aboveground,Catha_edulis|Leaves
+LQ-01-61-02_02_pos.mzML,V107695,2,positive,Sample,Celastraceae,Catha,Catha edulis,Stems,woody vegetative,woody tissue,aboveground,Catha_edulis|Stems
+LQ-01-61-03_02_pos.mzML,V107696,2,positive,Sample,Celastraceae,Catha,Catha edulis,Roots,roots,root tissue,belowground,Catha_edulis|Roots
+LQ-01-61-04_02_pos.mzML,V114502,2,positive,Sample,Celastraceae,Catha,Catha edulis,Aerial_parts,multiple,multiple,aboveground,Catha_edulis |Aerial_parts
+LQ-01-61-05_02_pos.mzML,V103080,2,positive,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Stems,woody vegetative,woody tissue,aboveground,Celastrus_orbiculatus|Stems
+LQ-01-61-06_02_pos.mzML,V111863,2,positive,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Roots,roots,root tissue,belowground,Celastrus_orbiculatus|Roots
+LQ-01-61-07_02_pos.mzML,V100029,2,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Seeds,reproductive,green tissue,aboveground,Celastrus_paniculatus|Graines
+LQ-01-61-08_02_pos.mzML,V105603,2,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Leaves,photosynthetic,green tissue,aboveground,Celastrus_paniculatus|Leaves
+LQ-01-61-09_02_pos.mzML,V105604,2,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Bark_tronc,woody vegetative,woody tissue,aboveground,Celastrus_paniculatus|Bark_tronc
+LQ-01-61-10_02_pos.mzML,V108295,2,positive,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Leaves,photosynthetic,green tissue,aboveground,Elaeodendron_schweinfurthianum|Leaves
+LQ-01-61-11_02_pos.mzML,V108296,2,positive,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Stems,woody vegetative,woody tissue,aboveground,Elaeodendron_schweinfurthianum|Stems
+LQ-01-61-12_01_neg.mzML,V113977,1,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Leaves,photosynthetic,green tissue,aboveground,Evonympsis_sp|Leaves
+LQ-01-61-12_02_neg.mzML,V113977,2,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Leaves,photosynthetic,green tissue,aboveground,Evonympsis_sp|Leaves
+LQ-01-61-12_03_neg.mzML,V113977,3,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Leaves,photosynthetic,green tissue,aboveground,Evonympsis_sp|Leaves
+LQ-01-61-15_02_pos.mzML,V104538,2,positive,Sample,Celastraceae,Euonymus,Euonymus alatus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_alatus|Stems
+LQ-01-61-16_02_pos.mzML,V104539,2,positive,Sample,Celastraceae,Euonymus,Euonymus alatus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_alatus|Leaves
+LQ-01-61-17_02_pos.mzML,V110858,2,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Roots,roots,root tissue,belowground,Euonymus_bockii|Roots
+LQ-01-61-18_02_pos.mzML,V110859,2,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Stems,woody vegetative,woody tissue,aboveground,Euonymus_bockii|Stems
+LQ-01-61-19_02_pos.mzML,V110860,2,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Leaves,photosynthetic,green tissue,aboveground,Euonymus_bockii|Leaves
+LQ-01-61-20_02_pos.mzML,V105442,2,positive,Sample,Celastraceae,Euonymus,Euonymus bungeanus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_bungeanus|Stems
+LQ-01-61-21_02_pos.mzML,V116403,2,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Euonymus_cochinchinensis|Branche
+LQ-01-61-22_02_pos.mzML,V116404,2,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Roots,roots,root tissue,belowground,Euonymus_cochinchinensis|Roots
+LQ-01-61-23_02_pos.mzML,V116406,2,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_cochinchinensis|Leaves
+LQ-01-61-24_02_pos.mzML,V110861,2,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Roots,roots,root tissue,belowground,Euonymus_fertilis|Roots
+LQ-01-61-25_02_pos.mzML,V110862,2,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Stems,woody vegetative,woody tissue,aboveground,Euonymus_fertilis|Stems
+LQ-01-61-26_02_pos.mzML,V110863,2,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_fertilis|Leaves
+LQ-01-61-27_02_pos.mzML,V105253,2,positive,Sample,Celastraceae,Euonymus,Euonymus fortunei,Aerial_parts,multiple,multiple,aboveground,Euonymus_fortunei|Aerial_parts
+LQ-01-61-28_02_pos.mzML,V113153,2,positive,Sample,Celastraceae,Euonymus,Euonymus grandiflorus,Bark_Stems,woody vegetative,woody tissue,aboveground,Euonymus_grandiflorus|Bark_Stems
+LQ-01-61-29_02_pos.mzML,V114337,2,positive,Sample,Celastraceae,Euonymus,Euonymus javanicus,Bark_tronc,woody vegetative,woody tissue,aboveground,Euonymus_javanicus|Bark_tronc
+LQ-01-61-30_02_pos.mzML,V114338,2,positive,Sample,Celastraceae,Euonymus,Euonymus javanicus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_javanicus|Leaves
+LQ-01-61-31_02_pos.mzML,V110309,2,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Roots,roots,root tissue,belowground,Euonymus_jinfoshanensis|Roots
+LQ-01-61-32_02_pos.mzML,V110310,2,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Stems,woody vegetative,woody tissue,aboveground,Euonymus_jinfoshanensis|Stems
+LQ-01-61-33_02_pos.mzML,V110311,2,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_jinfoshanensis|Leaves
+LQ-01-61-34_02_pos.mzML,V111793,2,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Roots,roots,root tissue,belowground,Euonymus_myrianthus|Roots
+LQ-01-61-35_02_pos.mzML,V111794,2,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_myrianthus|Stems
+LQ-01-61-36_02_pos.mzML,V111795,2,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_myrianthus|Leaves
+LQ-01-61-37_02_pos.mzML,V111409,2,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Roots,roots,root tissue,belowground,Euonymus_sanguineus|Roots
+LQ-01-61-38_02_pos.mzML,V111410,2,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_sanguineus|Stems
+LQ-01-61-39_02_pos.mzML,V111411,2,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_sanguineus|Leaves
+LQ-01-61-40_02_pos.mzML,V114012,2,positive,Sample,Celastraceae,Hippocratea,Hippocratea urceolus,Leaves,photosynthetic,green tissue,aboveground,Hippocratea_urceolus|Leaves
+LQ-01-61-41_02_pos.mzML,V107269,2,positive,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Stems,woody vegetative,woody tissue,aboveground,Loeseneriella_concinna|Stems
+LQ-01-61-42_02_pos.mzML,V108472,2,positive,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Leaves,photosynthetic,green tissue,aboveground,Loeseneriella_concinna|Leaves
+LQ-01-61-43_02_pos.mzML,V108332,2,positive,Sample,Celastraceae,Maytenus,Maytenus buchananii,Leaves,photosynthetic,green tissue,aboveground,Maytenus_buchananii|Leaves
+LQ-01-61-44_02_pos.mzML,V108333,2,positive,Sample,Celastraceae,Maytenus,Maytenus buchananii,Stems,woody vegetative,woody tissue,aboveground,Maytenus_buchananii|Stems
+LQ-01-61-45_02_pos.mzML,V101528,2,positive,Sample,Celastraceae,Maytenus,Maytenus cymosus,Bark_Stems,woody vegetative,woody tissue,aboveground,Maytenus_cymosus|Bark_Stems
+LQ-01-61-46_02_pos.mzML,V113998,2,positive,Sample,Celastraceae,Maytenus,Maytenus linearis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_linearis|Leaves
+LQ-01-61-47_02_pos.mzML,V113999,2,positive,Sample,Celastraceae,Maytenus,Maytenus linearis,Underground_parts,multiple,multiple,belowground,Maytenus_linearis|Underground_parts
+LQ-01-61-48_02_pos.mzML,V105100,2,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_mekongensis|Leaves
+LQ-01-61-49_02_pos.mzML,V105101,2,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Stems,woody vegetative,woody tissue,aboveground,Maytenus_mekongensis|Stems
+LQ-01-61-50_02_pos.mzML,V105102,2,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Roots,roots,root tissue,belowground,Maytenus_mekongensis|Roots
+LQ-01-61-51_02_pos.mzML,V106281,2,positive,Sample,Celastraceae,Maytenus,Maytenus polycantha,Aerial_parts,multiple,multiple,aboveground,Maytenus_polycantha|Aerial_parts
+LQ-01-61-52_02_pos.mzML,V116016,2,positive,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_senegalensis|Leaves
+LQ-01-61-53_02_pos.mzML,V116017,2,positive,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Stems,woody vegetative,woody tissue,aboveground,Maytenus_senegalensis|Stems
+LQ-01-61-54_02_pos.mzML,V105698,2,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Leaves,photosynthetic,green tissue,aboveground,Maytenus_undata|Leaves
+LQ-01-61-55_02_pos.mzML,V105699,2,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Stems,woody vegetative,woody tissue,aboveground,Maytenus_undata|Stems
+LQ-01-61-56_02_pos.mzML,V109319,2,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Roots,roots,root tissue,belowground,Maytenus_undata|Roots
+LQ-01-61-57_02_pos.mzML,V107914,2,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Roots,roots,root tissue,belowground,Microtropis_triflora|Roots
+LQ-01-61-58_02_pos.mzML,V107915,2,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Stems,woody vegetative,woody tissue,aboveground,Microtropis_triflora|Stems
+LQ-01-61-59_02_pos.mzML,V107916,2,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Leaves,photosynthetic,green tissue,aboveground,Microtropis_triflora|Leaves
+LQ-01-61-60_02_pos.mzML,V102807,2,positive,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Bark_Stems,woody vegetative,woody tissue,aboveground,Mystroxylon_aethiopicum|Bark_Stems
+LQ-01-61-61_02_pos.mzML,V103478,2,positive,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Leaves,photosynthetic,green tissue,aboveground,Mystroxylon_aethiopicum|Leaves
+LQ-01-61-62_02_pos.mzML,V107716,2,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia africana,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_africana|Leaves
+LQ-01-61-63_02_pos.mzML,V100713,2,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Stems,woody vegetative,woody tissue,aboveground,Pleurostylia_pachyphloe|Stems
+LQ-01-61-64_02_pos.mzML,V100727,2,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_pachyphloe|Leaves
+LQ-01-61-65_02_pos.mzML,V113494,2,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_chinensis|Leaves
+LQ-01-61-66_02_pos.mzML,V113495,2,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Branche,woody vegetative,woody tissue,aboveground,Salacia_chinensis|Branche
+LQ-01-61-67_02_pos.mzML,V113496,2,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Roots,roots,root tissue,belowground,Salacia_chinensis|Roots
+LQ-01-61-68_02_pos.mzML,V114998,2,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_cochinchinensis|Leaves
+LQ-01-61-69_02_pos.mzML,V114999,2,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Salacia_cochinchinensis|Branche
+LQ-01-61-70_02_pos.mzML,V115000,2,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Underground_parts,multiple,multiple,belowground,Salacia_cochinchinensis|Underground_parts
+LQ-01-61-71_02_pos.mzML,V102387,2,positive,Sample,Celastraceae,Salacia,Salacia prinoides,Indeterminated,multiple,multiple,multiple,Salacia_prinoides|Indeterminated
+LQ-01-61-72_02_pos.mzML,V102634,2,positive,Sample,Celastraceae,Salacia,Salacia letestuana,Fruits,reproductive,green tissue,aboveground,Salacia_letestuana|Fruits
+LQ-01-61-73_02_pos.mzML,V109564,2,positive,Sample,Celastraceae,Tripterygium,Tripterygium hypoglacum,Roots,roots,root tissue,belowground,Tripterygium_hypoglacum |Roots
+LQ-01-61-74_02_pos.mzML,V107005,2,positive,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Roots,roots,root tissue,belowground,Tripterygium_wilfordii|Roots
+LQ-01-61-75_02_pos.mzML,V107006,2,positive,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Stems,woody vegetative,woody tissue,aboveground,Tripterygium_wilfordii|Stems
+LQ-01-61-76_02_pos.mzML,NA,2,positive,Blank_process,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-78_02_pos.mzML,V113570,2,positive,Sample,Celastraceae,Reissantia,Reissantia indica,Roots,roots,root tissue,belowground,Reissantia_indica|Roots
+LQ-01-61-01_03_pos.mzML,V107694 ,3,positive,Sample,Celastraceae,Catha,Catha edulis,Leaves,photosynthetic,green tissue,aboveground,Catha_edulis|Leaves
+LQ-01-61-02_03_pos.mzML,V107695,3,positive,Sample,Celastraceae,Catha,Catha edulis,Stems,woody vegetative,woody tissue,aboveground,Catha_edulis|Stems
+LQ-01-61-03_03_pos.mzML,V107696,3,positive,Sample,Celastraceae,Catha,Catha edulis,Roots,roots,root tissue,belowground,Catha_edulis|Roots
+LQ-01-61-04_03_pos.mzML,V114502,3,positive,Sample,Celastraceae,Catha,Catha edulis,Aerial_parts,multiple,multiple,aboveground,Catha_edulis |Aerial_parts
+LQ-01-61-05_03_pos.mzML,V103080,3,positive,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Stems,woody vegetative,woody tissue,aboveground,Celastrus_orbiculatus|Stems
+LQ-01-61-06_03_pos.mzML,V111863,3,positive,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Roots,roots,root tissue,belowground,Celastrus_orbiculatus|Roots
+LQ-01-61-07_03_pos.mzML,V100029,3,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Seeds,reproductive,green tissue,aboveground,Celastrus_paniculatus|Graines
+LQ-01-61-08_03_pos.mzML,V105603,3,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Leaves,photosynthetic,green tissue,aboveground,Celastrus_paniculatus|Leaves
+LQ-01-61-09_03_pos.mzML,V105604,3,positive,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Bark_tronc,woody vegetative,woody tissue,aboveground,Celastrus_paniculatus|Bark_tronc
+LQ-01-61-10_03_pos.mzML,V108295,3,positive,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Leaves,photosynthetic,green tissue,aboveground,Elaeodendron_schweinfurthianum|Leaves
+LQ-01-61-11_03_pos.mzML,V108296,3,positive,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Stems,woody vegetative,woody tissue,aboveground,Elaeodendron_schweinfurthianum|Stems
+LQ-01-61-13_01_pos.mzML,V113978,1,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Stems,woody vegetative,woody tissue,aboveground,Evonympsis_sp|Stems
+LQ-01-61-13_02_pos.mzML,V113978,2,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Stems,woody vegetative,woody tissue,aboveground,Evonympsis_sp|Stems
+LQ-01-61-13_03_pos.mzML,V113978,3,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Stems,woody vegetative,woody tissue,aboveground,Evonympsis_sp|Stems
+LQ-01-61-15_03_pos.mzML,V104538,3,positive,Sample,Celastraceae,Euonymus,Euonymus alatus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_alatus|Stems
+LQ-01-61-16_03_pos.mzML,V104539,3,positive,Sample,Celastraceae,Euonymus,Euonymus alatus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_alatus|Leaves
+LQ-01-61-17_03_pos.mzML,V110858,3,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Roots,roots,root tissue,belowground,Euonymus_bockii|Roots
+LQ-01-61-18_03_pos.mzML,V110859,3,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Stems,woody vegetative,woody tissue,aboveground,Euonymus_bockii|Stems
+LQ-01-61-19_03_pos.mzML,V110860,3,positive,Sample,Celastraceae,Euonymus,Euonymus bockii,Leaves,photosynthetic,green tissue,aboveground,Euonymus_bockii|Leaves
+LQ-01-61-20_03_pos.mzML,V105442,3,positive,Sample,Celastraceae,Euonymus,Euonymus bungeanus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_bungeanus|Stems
+LQ-01-61-21_03_pos.mzML,V116403,3,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Euonymus_cochinchinensis|Branche
+LQ-01-61-22_03_pos.mzML,V116404,3,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Roots,roots,root tissue,belowground,Euonymus_cochinchinensis|Roots
+LQ-01-61-23_03_pos.mzML,V116406,3,positive,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_cochinchinensis|Leaves
+LQ-01-61-24_03_pos.mzML,V110861,3,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Roots,roots,root tissue,belowground,Euonymus_fertilis|Roots
+LQ-01-61-25_03_pos.mzML,V110862,3,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Stems,woody vegetative,woody tissue,aboveground,Euonymus_fertilis|Stems
+LQ-01-61-26_03_pos.mzML,V110863,3,positive,Sample,Celastraceae,Euonymus,Euonymus fertilis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_fertilis|Leaves
+LQ-01-61-27_03_pos.mzML,V105253,3,positive,Sample,Celastraceae,Euonymus,Euonymus fortunei,Aerial_parts,multiple,multiple,aboveground,Euonymus_fortunei|Aerial_parts
+LQ-01-61-28_03_pos.mzML,V113153,3,positive,Sample,Celastraceae,Euonymus,Euonymus grandiflorus,Bark_Stems,woody vegetative,woody tissue,aboveground,Euonymus_grandiflorus|Bark_Stems
+LQ-01-61-29_03_pos.mzML,V114337,3,positive,Sample,Celastraceae,Euonymus,Euonymus javanicus,Bark_tronc,woody vegetative,woody tissue,aboveground,Euonymus_javanicus|Bark_tronc
+LQ-01-61-30_03_pos.mzML,V114338,3,positive,Sample,Celastraceae,Euonymus,Euonymus javanicus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_javanicus|Leaves
+LQ-01-61-31_03_pos.mzML,V110309,3,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Roots,roots,root tissue,belowground,Euonymus_jinfoshanensis|Roots
+LQ-01-61-32_03_pos.mzML,V110310,3,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Stems,woody vegetative,woody tissue,aboveground,Euonymus_jinfoshanensis|Stems
+LQ-01-61-33_03_pos.mzML,V110311,3,positive,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_jinfoshanensis|Leaves
+LQ-01-61-34_03_pos.mzML,V111793,3,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Roots,roots,root tissue,belowground,Euonymus_myrianthus|Roots
+LQ-01-61-35_03_pos.mzML,V111794,3,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_myrianthus|Stems
+LQ-01-61-36_03_pos.mzML,V111795,3,positive,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_myrianthus|Leaves
+LQ-01-61-37_03_pos.mzML,V111409,3,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Roots,roots,root tissue,belowground,Euonymus_sanguineus|Roots
+LQ-01-61-38_03_pos.mzML,V111410,3,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Stems,woody vegetative,woody tissue,aboveground,Euonymus_sanguineus|Stems
+LQ-01-61-39_03_pos.mzML,V111411,3,positive,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_sanguineus|Leaves
+LQ-01-61-40_03_pos.mzML,V114012,3,positive,Sample,Celastraceae,Hippocratea,Hippocratea urceolus,Leaves,photosynthetic,green tissue,aboveground,Hippocratea_urceolus|Leaves
+LQ-01-61-41_03_pos.mzML,V107269,3,positive,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Stems,woody vegetative,woody tissue,aboveground,Loeseneriella_concinna|Stems
+LQ-01-61-42_03_pos.mzML,V108472,3,positive,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Leaves,photosynthetic,green tissue,aboveground,Loeseneriella_concinna|Leaves
+LQ-01-61-43_03_pos.mzML,V108332,3,positive,Sample,Celastraceae,Maytenus,Maytenus buchananii,Leaves,photosynthetic,green tissue,aboveground,Maytenus_buchananii|Leaves
+LQ-01-61-44_03_pos.mzML,V108333,3,positive,Sample,Celastraceae,Maytenus,Maytenus buchananii,Stems,woody vegetative,woody tissue,aboveground,Maytenus_buchananii|Stems
+LQ-01-61-45_03_pos.mzML,V101528,3,positive,Sample,Celastraceae,Maytenus,Maytenus cymosus,Bark_Stems,woody vegetative,woody tissue,aboveground,Maytenus_cymosus|Bark_Stems
+LQ-01-61-46_03_pos.mzML,V113998,3,positive,Sample,Celastraceae,Maytenus,Maytenus linearis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_linearis|Leaves
+LQ-01-61-47_03_pos.mzML,V113999,3,positive,Sample,Celastraceae,Maytenus,Maytenus linearis,Underground_parts,multiple,multiple,belowground,Maytenus_linearis|Underground_parts
+LQ-01-61-48_03_pos.mzML,V105100,3,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_mekongensis|Leaves
+LQ-01-61-49_03_pos.mzML,V105101,3,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Stems,woody vegetative,woody tissue,aboveground,Maytenus_mekongensis|Stems
+LQ-01-61-50_03_pos.mzML,V105102,3,positive,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Roots,roots,root tissue,belowground,Maytenus_mekongensis|Roots
+LQ-01-61-51_03_pos.mzML,V106281,3,positive,Sample,Celastraceae,Maytenus,Maytenus polycantha,Aerial_parts,multiple,multiple,aboveground,Maytenus_polycantha|Aerial_parts
+LQ-01-61-52_03_pos.mzML,V116016,3,positive,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_senegalensis|Leaves
+LQ-01-61-53_03_pos.mzML,V116017,3,positive,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Stems,woody vegetative,woody tissue,aboveground,Maytenus_senegalensis|Stems
+LQ-01-61-54_03_pos.mzML,V105698,3,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Leaves,photosynthetic,green tissue,aboveground,Maytenus_undata|Leaves
+LQ-01-61-55_03_pos.mzML,V105699,3,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Stems,woody vegetative,woody tissue,aboveground,Maytenus_undata|Stems
+LQ-01-61-56_03_pos.mzML,V109319,3,positive,Sample,Celastraceae,Maytenus,Maytenus undata,Roots,roots,root tissue,belowground,Maytenus_undata|Roots
+LQ-01-61-57_03_pos.mzML,V107914,3,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Roots,roots,root tissue,belowground,Microtropis_triflora|Roots
+LQ-01-61-58_03_pos.mzML,V107915,3,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Stems,woody vegetative,woody tissue,aboveground,Microtropis_triflora|Stems
+LQ-01-61-59_03_pos.mzML,V107916,3,positive,Sample,Celastraceae,Microtropis,Microtropis triflora,Leaves,photosynthetic,green tissue,aboveground,Microtropis_triflora|Leaves
+LQ-01-61-60_03_pos.mzML,V102807,3,positive,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Bark_Stems,woody vegetative,woody tissue,aboveground,Mystroxylon_aethiopicum|Bark_Stems
+LQ-01-61-61_03_pos.mzML,V103478,3,positive,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Leaves,photosynthetic,green tissue,aboveground,Mystroxylon_aethiopicum|Leaves
+LQ-01-61-62_03_pos.mzML,V107716,3,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia africana,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_africana|Leaves
+LQ-01-61-63_03_pos.mzML,V100713,3,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Stems,woody vegetative,woody tissue,aboveground,Pleurostylia_pachyphloe|Stems
+LQ-01-61-64_03_pos.mzML,V100727,3,positive,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_pachyphloe|Leaves
+LQ-01-61-65_03_pos.mzML,V113494,3,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_chinensis|Leaves
+LQ-01-61-66_03_pos.mzML,V113495,3,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Branche,woody vegetative,woody tissue,aboveground,Salacia_chinensis|Branche
+LQ-01-61-67_03_pos.mzML,V113496,3,positive,Sample,Celastraceae,Salacia,Salacia chinensis,Roots,roots,root tissue,belowground,Salacia_chinensis|Roots
+LQ-01-61-68_03_pos.mzML,V114998,3,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_cochinchinensis|Leaves
+LQ-01-61-69_03_pos.mzML,V114999,3,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Salacia_cochinchinensis|Branche
+LQ-01-61-70_03_pos.mzML,V115000,3,positive,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Underground_parts,multiple,multiple,belowground,Salacia_cochinchinensis|Underground_parts
+LQ-01-61-71_03_pos.mzML,V102387,3,positive,Sample,Celastraceae,Salacia,Salacia prinoides,Indeterminated,multiple,multiple,multiple,Salacia_prinoides|Indeterminated
+LQ-01-61-72_03_pos.mzML,V102634,3,positive,Sample,Celastraceae,Salacia,Salacia letestuana,Fruits,reproductive,green tissue,aboveground,Salacia_letestuana|Fruits
+LQ-01-61-73_03_pos.mzML,V109564,3,positive,Sample,Celastraceae,Tripterygium,Tripterygium hypoglacum,Roots,roots,root tissue,belowground,Tripterygium_hypoglacum |Roots
+LQ-01-61-74_03_pos.mzML,V107005,3,positive,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Roots,roots,root tissue,belowground,Tripterygium_wilfordii|Roots
+LQ-01-61-75_03_pos.mzML,V107006,3,positive,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Stems,woody vegetative,woody tissue,aboveground,Tripterygium_wilfordii|Stems
+LQ-01-61-76_03_pos.mzML,NA,3,positive,Blank_process,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-78_03_pos.mzML,V113570,3,positive,Sample,Celastraceae,Reissantia,Reissantia indica,Roots,roots,root tissue,belowground,Reissantia_indica|Roots
+LQ-QC-01_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-01_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-02_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-02_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-03_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-03_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-04_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-04_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-05_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-05_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-06_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-06_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-07_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-07_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-08_02_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-08_03_pos.mzML,NA,3,positive,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-01_01_neg.mzML,V107694 ,1,negative,Sample,Celastraceae,Catha,Catha edulis,Leaves,photosynthetic,green tissue,aboveground,Catha_edulis|Leaves
+LQ-01-61-02_01_neg.mzML,V107695,1,negative,Sample,Celastraceae,Catha,Catha edulis,Stems,woody vegetative,woody tissue ,aboveground,Catha_edulis|Stems
+LQ-01-61-03_01_neg.mzML,V107696,1,negative,Sample,Celastraceae,Catha,Catha edulis,Roots,roots,root tissue,belowground,Catha_edulis|Roots
+LQ-01-61-04_01_neg.mzML,V114502,1,negative,Sample,Celastraceae,Catha,Catha edulis,Aerial_parts,multiple,multiple,aboveground,Catha_edulis |Aerial_parts
+LQ-01-61-05_01_neg.mzML,V103080,1,negative,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Stems,woody vegetative,woody tissue ,aboveground,Celastrus_orbiculatus|Stems
+LQ-01-61-06_01_neg.mzML,V111863,1,negative,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Roots,roots,root tissue,belowground,Celastrus_orbiculatus|Roots
+LQ-01-61-07_01_neg.mzML,V100029,1,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Seeds,reproductive,green tissue,aboveground,Celastrus_paniculatus|Graines
+LQ-01-61-08_01_neg.mzML,V105603,1,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Leaves,photosynthetic,green tissue,aboveground,Celastrus_paniculatus|Leaves
+LQ-01-61-09_01_neg.mzML,V105604,1,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Bark_tronc,woody vegetative,woody tissue ,aboveground,Celastrus_paniculatus|Bark_tronc
+LQ-01-61-10_01_neg.mzML,V108295,1,negative,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Leaves,photosynthetic,green tissue,aboveground,Elaeodendron_schweinfurthianum|Leaves
+LQ-01-61-11_01_neg.mzML,V108296,1,negative,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Stems,woody vegetative,woody tissue ,aboveground,Elaeodendron_schweinfurthianum|Stems
+LQ-01-61-13_01_neg.mzML,V113978,1,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Stems,woody vegetative,woody tissue ,aboveground,Evonympsis_sp|Stems
+LQ-01-61-13_02_neg.mzML,V113978,2,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Stems,woody vegetative,woody tissue ,aboveground,Evonympsis_sp|Stems
+LQ-01-61-13_03_neg.mzML,V113978,3,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Stems,woody vegetative,woody tissue ,aboveground,Evonympsis_sp|Stems
+LQ-01-61-15_01_neg.mzML,V104538,1,negative,Sample,Celastraceae,Euonymus,Euonymus alatus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_alatus|Stems
+LQ-01-61-16_01_neg.mzML,V104539,1,negative,Sample,Celastraceae,Euonymus,Euonymus alatus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_alatus|Leaves
+LQ-01-61-17_01_neg.mzML,V110858,1,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Roots,roots,root tissue,belowground,Euonymus_bockii|Roots
+LQ-01-61-18_01_neg.mzML,V110859,1,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_bockii|Stems
+LQ-01-61-19_01_neg.mzML,V110860,1,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Leaves,photosynthetic,green tissue,aboveground,Euonymus_bockii|Leaves
+LQ-01-61-20_01_neg.mzML,V105442,1,negative,Sample,Celastraceae,Euonymus,Euonymus bungeanus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_bungeanus|Stems
+LQ-01-61-21_01_neg.mzML,V116403,1,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Euonymus_cochinchinensis|Branche
+LQ-01-61-22_01_neg.mzML,V116404,1,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Roots,roots,root tissue,belowground,Euonymus_cochinchinensis|Roots
+LQ-01-61-23_01_neg.mzML,V116406,1,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_cochinchinensis|Leaves
+LQ-01-61-24_01_neg.mzML,V110861,1,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Roots,roots,root tissue,belowground,Euonymus_fertilis|Roots
+LQ-01-61-25_01_neg.mzML,V110862,1,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_fertilis|Stems
+LQ-01-61-26_01_neg.mzML,V110863,1,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_fertilis|Leaves
+LQ-01-61-27_01_neg.mzML,V105253,1,negative,Sample,Celastraceae,Euonymus,Euonymus fortunei,Aerial_parts,multiple,multiple,aboveground,Euonymus_fortunei|Aerial_parts
+LQ-01-61-28_01_neg.mzML,V113153,1,negative,Sample,Celastraceae,Euonymus,Euonymus grandiflorus,Bark_Stems,woody vegetative,woody tissue ,aboveground,Euonymus_grandiflorus|Bark_Stems
+LQ-01-61-29_01_neg.mzML,V114337,1,negative,Sample,Celastraceae,Euonymus,Euonymus javanicus,Bark_tronc,woody vegetative,woody tissue,aboveground,Euonymus_javanicus|Bark_tronc
+LQ-01-61-30_01_neg.mzML,V114338,1,negative,Sample,Celastraceae,Euonymus,Euonymus javanicus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_javanicus|Leaves
+LQ-01-61-31_01_neg.mzML,V110309,1,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Roots,roots,root tissue,belowground,Euonymus_jinfoshanensis|Roots
+LQ-01-61-32_01_neg.mzML,V110310,1,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_jinfoshanensis|Stems
+LQ-01-61-33_01_neg.mzML,V110311,1,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_jinfoshanensis|Leaves
+LQ-01-61-34_01_neg.mzML,V111793,1,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Roots,roots,root tissue,belowground,Euonymus_myrianthus|Roots
+LQ-01-61-35_01_neg.mzML,V111794,1,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_myrianthus|Stems
+LQ-01-61-36_01_neg.mzML,V111795,1,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_myrianthus|Leaves
+LQ-01-61-37_01_neg.mzML,V111409,1,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Roots,roots,root tissue,belowground,Euonymus_sanguineus|Roots
+LQ-01-61-38_01_neg.mzML,V111410,1,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_sanguineus|Stems
+LQ-01-61-39_01_neg.mzML,V111411,1,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_sanguineus|Leaves
+LQ-01-61-40_01_neg.mzML,V114012,1,negative,Sample,Celastraceae,Hippocratea,Hippocratea urceolus,Leaves,photosynthetic,green tissue,aboveground,Hippocratea_urceolus|Leaves
+LQ-01-61-41_01_neg.mzML,V107269,1,negative,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Stems,woody vegetative,woody tissue ,aboveground,Loeseneriella_concinna|Stems
+LQ-01-61-42_01_neg.mzML,V108472,1,negative,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Leaves,photosynthetic,green tissue,aboveground,Loeseneriella_concinna|Leaves
+LQ-01-61-43_01_neg.mzML,V108332,1,negative,Sample,Celastraceae,Maytenus,Maytenus buchananii,Leaves,photosynthetic,green tissue,aboveground,Maytenus_buchananii|Leaves
+LQ-01-61-44_01_neg.mzML,V108333,1,negative,Sample,Celastraceae,Maytenus,Maytenus buchananii,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_buchananii|Stems
+LQ-01-61-45_01_neg.mzML,V101528,1,negative,Sample,Celastraceae,Maytenus,Maytenus cymosus,Bark_Stems,woody vegetative,woody tissue,aboveground,Maytenus_cymosus|Bark_Stems
+LQ-01-61-46_01_neg.mzML,V113998,1,negative,Sample,Celastraceae,Maytenus,Maytenus linearis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_linearis|Leaves
+LQ-01-61-47_01_neg.mzML,V113999,1,negative,Sample,Celastraceae,Maytenus,Maytenus linearis,Underground_parts,multiple,multiple,belowground,Maytenus_linearis|Underground_parts
+LQ-01-61-48_01_neg.mzML,V105100,1,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_mekongensis|Leaves
+LQ-01-61-49_01_neg.mzML,V105101,1,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_mekongensis|Stems
+LQ-01-61-50_01_neg.mzML,V105102,1,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Roots,roots,root tissue,belowground,Maytenus_mekongensis|Roots
+LQ-01-61-51_01_neg.mzML,V106281,1,negative,Sample,Celastraceae,Maytenus,Maytenus polycantha,Aerial_parts,multiple,multiple,aboveground,Maytenus_polycantha|Aerial_parts
+LQ-01-61-52_01_neg.mzML,V116016,1,negative,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_senegalensis|Leaves
+LQ-01-61-53_01_neg.mzML,V116017,1,negative,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_senegalensis|Stems
+LQ-01-61-54_01_neg.mzML,V105698,1,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Leaves,photosynthetic,green tissue,aboveground,Maytenus_undata|Leaves
+LQ-01-61-55_01_neg.mzML,V105699,1,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_undata|Stems
+LQ-01-61-56_01_neg.mzML,V109319,1,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Roots,roots,root tissue,belowground,Maytenus_undata|Roots
+LQ-01-61-57_01_neg.mzML,V107914,1,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Roots,roots,root tissue,belowground,Microtropis_triflora|Roots
+LQ-01-61-58_01_neg.mzML,V107915,1,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Stems,woody vegetative,woody tissue ,aboveground,Microtropis_triflora|Stems
+LQ-01-61-59_01_neg.mzML,V107916,1,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Leaves,photosynthetic,green tissue,aboveground,Microtropis_triflora|Leaves
+LQ-01-61-60_01_neg.mzML,V102807,1,negative,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Bark_Stems,woody vegetative,woody tissue ,aboveground,Mystroxylon_aethiopicum|Bark_Stems
+LQ-01-61-61_01_neg.mzML,V103478,1,negative,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Leaves,photosynthetic,green tissue,aboveground,Mystroxylon_aethiopicum|Leaves
+LQ-01-61-62_01_neg.mzML,V107716,1,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia africana,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_africana|Leaves
+LQ-01-61-63_01_neg.mzML,V100713,1,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Stems,woody vegetative,woody tissue ,aboveground,Pleurostylia_pachyphloe|Stems
+LQ-01-61-64_01_neg.mzML,V100727,1,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_pachyphloe|Leaves
+LQ-01-61-65_01_neg.mzML,V113494,1,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_chinensis|Leaves
+LQ-01-61-66_01_neg.mzML,V113495,1,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Branche,woody vegetative,woody tissue ,aboveground,Salacia_chinensis|Branche
+LQ-01-61-67_01_neg.mzML,V113496,1,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Roots,roots,root tissue,belowground,Salacia_chinensis|Roots
+LQ-01-61-68_01_neg.mzML,V114998,1,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_cochinchinensis|Leaves
+LQ-01-61-69_01_neg.mzML,V114999,1,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Branche,woody vegetative,woody tissue ,aboveground,Salacia_cochinchinensis|Branche
+LQ-01-61-70_01_neg.mzML,V115000,1,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Underground_parts,multiple,multiple,belowground,Salacia_cochinchinensis|Underground_parts
+LQ-01-61-71_01_neg.mzML,V102387,1,negative,Sample,Celastraceae,Salacia,Salacia prinoides,Indeterminated,multiple,multiple,multiple,Salacia_prinoides|Indeterminated
+LQ-01-61-72_01_neg.mzML,V102634,1,negative,Sample,Celastraceae,Salacia,Salacia letestuana,Fruits,reproductive,green tissue,aboveground,Salacia_letestuana|Fruits
+LQ-01-61-73_01_neg.mzML,V109564,1,negative,Sample,Celastraceae,Tripterygium,Tripterygium hypoglacum,Roots,roots,root tissue,belowground,Tripterygium_hypoglacum |Roots
+LQ-01-61-74_01_neg.mzML,V107005,1,negative,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Roots,roots,root tissue,belowground,Tripterygium_wilfordii|Roots
+LQ-01-61-75_01_neg.mzML,V107006,1,negative,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Stems,woody vegetative,woody tissue ,aboveground,Tripterygium_wilfordii|Stems
+LQ-01-61-76_01_neg.mzML,NA,1,negative,Blank_process,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-78_01_neg.mzML,V113570,1,negative,Sample,Celastraceae,Reissantia ,Reissantia indica,Roots,roots,root tissue,belowground,Reissantia_indica|Roots
+LQ-QC-01_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-02_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-03_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-04_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-05_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-06_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-07_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-08_01_neg.mzML,NA,1,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-01_02_neg.mzML,V107694 ,2,negative,Sample,Celastraceae,Catha,Catha edulis,Leaves,photosynthetic,green tissue,aboveground,Catha_edulis|Leaves
+LQ-01-61-02_02_neg.mzML,V107695,2,negative,Sample,Celastraceae,Catha,Catha edulis,Stems,woody vegetative,woody tissue ,aboveground,Catha_edulis|Stems
+LQ-01-61-03_02_neg.mzML,V107696,2,negative,Sample,Celastraceae,Catha,Catha edulis,Roots,roots,root tissue,belowground,Catha_edulis|Roots
+LQ-01-61-04_02_neg.mzML,V114502,2,negative,Sample,Celastraceae,Catha,Catha edulis,Aerial_parts,multiple,multiple,aboveground,Catha_edulis |Aerial_parts
+LQ-01-61-05_02_neg.mzML,V103080,2,negative,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Stems,woody vegetative,woody tissue ,aboveground,Celastrus_orbiculatus|Stems
+LQ-01-61-06_02_neg.mzML,V111863,2,negative,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Roots,roots,root tissue,belowground,Celastrus_orbiculatus|Roots
+LQ-01-61-07_02_neg.mzML,V100029,2,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Seeds,reproductive,green tissue,aboveground,Celastrus_paniculatus|Graines
+LQ-01-61-08_02_neg.mzML,V105603,2,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Leaves,photosynthetic,green tissue,aboveground,Celastrus_paniculatus|Leaves
+LQ-01-61-09_02_neg.mzML,V105604,2,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Bark_tronc,woody vegetative,woody tissue ,aboveground,Celastrus_paniculatus|Bark_tronc
+LQ-01-61-10_02_neg.mzML,V108295,2,negative,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Leaves,photosynthetic,green tissue,aboveground,Elaeodendron_schweinfurthianum|Leaves
+LQ-01-61-11_02_neg.mzML,V108296,2,negative,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Stems,woody vegetative,woody tissue ,aboveground,Elaeodendron_schweinfurthianum|Stems
+LQ-01-61-14_01_pos.mzML,V113979,1,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Underground_parts,multiple,multiple,belowground,Evonympsis_sp|Underground_parts
+LQ-01-61-14_02_pos.mzML,V113979,2,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Underground_parts,multiple,multiple,belowground,Evonympsis_sp|Underground_parts
+LQ-01-61-14_03_pos.mzML,V113979,3,positive,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Underground_parts,multiple,multiple,belowground,Evonympsis_sp|Underground_parts
+LQ-01-61-15_02_neg.mzML,V104538,2,negative,Sample,Celastraceae,Euonymus,Euonymus alatus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_alatus|Stems
+LQ-01-61-16_02_neg.mzML,V104539,2,negative,Sample,Celastraceae,Euonymus,Euonymus alatus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_alatus|Leaves
+LQ-01-61-17_02_neg.mzML,V110858,2,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Roots,roots,root tissue,belowground,Euonymus_bockii|Roots
+LQ-01-61-18_02_neg.mzML,V110859,2,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_bockii|Stems
+LQ-01-61-19_02_neg.mzML,V110860,2,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Leaves,photosynthetic,green tissue,aboveground,Euonymus_bockii|Leaves
+LQ-01-61-20_02_neg.mzML,V105442,2,negative,Sample,Celastraceae,Euonymus,Euonymus bungeanus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_bungeanus|Stems
+LQ-01-61-21_02_neg.mzML,V116403,2,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Euonymus_cochinchinensis|Branche
+LQ-01-61-22_02_neg.mzML,V116404,2,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Roots,roots,root tissue,belowground,Euonymus_cochinchinensis|Roots
+LQ-01-61-23_02_neg.mzML,V116406,2,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_cochinchinensis|Leaves
+LQ-01-61-24_02_neg.mzML,V110861,2,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Roots,roots,root tissue,belowground,Euonymus_fertilis|Roots
+LQ-01-61-25_02_neg.mzML,V110862,2,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_fertilis|Stems
+LQ-01-61-26_02_neg.mzML,V110863,2,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_fertilis|Leaves
+LQ-01-61-27_02_neg.mzML,V105253,2,negative,Sample,Celastraceae,Euonymus,Euonymus fortunei,Aerial_parts,multiple,multiple,aboveground,Euonymus_fortunei|Aerial_parts
+LQ-01-61-28_02_neg.mzML,V113153,2,negative,Sample,Celastraceae,Euonymus,Euonymus grandiflorus,Bark_Stems,woody vegetative,woody tissue ,aboveground,Euonymus_grandiflorus|Bark_Stems
+LQ-01-61-29_02_neg.mzML,V114337,2,negative,Sample,Celastraceae,Euonymus,Euonymus javanicus,Bark_tronc,woody vegetative,woody tissue,aboveground,Euonymus_javanicus|Bark_tronc
+LQ-01-61-30_02_neg.mzML,V114338,2,negative,Sample,Celastraceae,Euonymus,Euonymus javanicus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_javanicus|Leaves
+LQ-01-61-31_02_neg.mzML,V110309,2,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Roots,roots,root tissue,belowground,Euonymus_jinfoshanensis|Roots
+LQ-01-61-32_02_neg.mzML,V110310,2,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_jinfoshanensis|Stems
+LQ-01-61-33_02_neg.mzML,V110311,2,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_jinfoshanensis|Leaves
+LQ-01-61-34_02_neg.mzML,V111793,2,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Roots,roots,root tissue,belowground,Euonymus_myrianthus|Roots
+LQ-01-61-35_02_neg.mzML,V111794,2,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_myrianthus|Stems
+LQ-01-61-36_02_neg.mzML,V111795,2,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_myrianthus|Leaves
+LQ-01-61-37_02_neg.mzML,V111409,2,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Roots,roots,root tissue,belowground,Euonymus_sanguineus|Roots
+LQ-01-61-38_02_neg.mzML,V111410,2,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_sanguineus|Stems
+LQ-01-61-39_02_neg.mzML,V111411,2,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_sanguineus|Leaves
+LQ-01-61-40_02_neg.mzML,V114012,2,negative,Sample,Celastraceae,Hippocratea,Hippocratea urceolus,Leaves,photosynthetic,green tissue,aboveground,Hippocratea_urceolus|Leaves
+LQ-01-61-41_02_neg.mzML,V107269,2,negative,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Stems,woody vegetative,woody tissue ,aboveground,Loeseneriella_concinna|Stems
+LQ-01-61-42_02_neg.mzML,V108472,2,negative,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Leaves,photosynthetic,green tissue,aboveground,Loeseneriella_concinna|Leaves
+LQ-01-61-43_02_neg.mzML,V108332,2,negative,Sample,Celastraceae,Maytenus,Maytenus buchananii,Leaves,photosynthetic,green tissue,aboveground,Maytenus_buchananii|Leaves
+LQ-01-61-44_02_neg.mzML,V108333,2,negative,Sample,Celastraceae,Maytenus,Maytenus buchananii,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_buchananii|Stems
+LQ-01-61-45_02_neg.mzML,V101528,2,negative,Sample,Celastraceae,Maytenus,Maytenus cymosus,Bark_Stems,woody vegetative,woody tissue,aboveground,Maytenus_cymosus|Bark_Stems
+LQ-01-61-46_02_neg.mzML,V113998,2,negative,Sample,Celastraceae,Maytenus,Maytenus linearis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_linearis|Leaves
+LQ-01-61-47_02_neg.mzML,V113999,2,negative,Sample,Celastraceae,Maytenus,Maytenus linearis,Underground_parts,multiple,multiple,belowground,Maytenus_linearis|Underground_parts
+LQ-01-61-48_02_neg.mzML,V105100,2,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_mekongensis|Leaves
+LQ-01-61-49_02_neg.mzML,V105101,2,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_mekongensis|Stems
+LQ-01-61-50_02_neg.mzML,V105102,2,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Roots,roots,root tissue,belowground,Maytenus_mekongensis|Roots
+LQ-01-61-51_02_neg.mzML,V106281,2,negative,Sample,Celastraceae,Maytenus,Maytenus polycantha,Aerial_parts,multiple,multiple,aboveground,Maytenus_polycantha|Aerial_parts
+LQ-01-61-52_02_neg.mzML,V116016,2,negative,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_senegalensis|Leaves
+LQ-01-61-53_02_neg.mzML,V116017,2,negative,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_senegalensis|Stems
+LQ-01-61-54_02_neg.mzML,V105698,2,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Leaves,photosynthetic,green tissue,aboveground,Maytenus_undata|Leaves
+LQ-01-61-55_02_neg.mzML,V105699,2,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_undata|Stems
+LQ-01-61-56_02_neg.mzML,V109319,2,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Roots,roots,root tissue,belowground,Maytenus_undata|Roots
+LQ-01-61-57_02_neg.mzML,V107914,2,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Roots,roots,root tissue,belowground,Microtropis_triflora|Roots
+LQ-01-61-58_02_neg.mzML,V107915,2,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Stems,woody vegetative,woody tissue ,aboveground,Microtropis_triflora|Stems
+LQ-01-61-59_02_neg.mzML,V107916,2,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Leaves,photosynthetic,green tissue,aboveground,Microtropis_triflora|Leaves
+LQ-01-61-60_02_neg.mzML,V102807,2,negative,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Bark_Stems,woody vegetative,woody tissue ,aboveground,Mystroxylon_aethiopicum|Bark_Stems
+LQ-01-61-61_02_neg.mzML,V103478,2,negative,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Leaves,photosynthetic,green tissue,aboveground,Mystroxylon_aethiopicum|Leaves
+LQ-01-61-62_02_neg.mzML,V107716,2,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia africana,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_africana|Leaves
+LQ-01-61-63_02_neg.mzML,V100713,2,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Stems,woody vegetative,woody tissue ,aboveground,Pleurostylia_pachyphloe|Stems
+LQ-01-61-64_02_neg.mzML,V100727,2,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_pachyphloe|Leaves
+LQ-01-61-65_02_neg.mzML,V113494,2,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_chinensis|Leaves
+LQ-01-61-66_02_neg.mzML,V113495,2,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Branche,woody vegetative,woody tissue ,aboveground,Salacia_chinensis|Branche
+LQ-01-61-67_02_neg.mzML,V113496,2,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Roots,roots,root tissue,belowground,Salacia_chinensis|Roots
+LQ-01-61-68_02_neg.mzML,V114998,2,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_cochinchinensis|Leaves
+LQ-01-61-69_02_neg.mzML,V114999,2,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Branche,woody vegetative,woody tissue ,aboveground,Salacia_cochinchinensis|Branche
+LQ-01-61-70_02_neg.mzML,V115000,2,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Underground_parts,multiple,multiple,belowground,Salacia_cochinchinensis|Underground_parts
+LQ-01-61-71_02_neg.mzML,V102387,2,negative,Sample,Celastraceae,Salacia,Salacia prinoides,Indeterminated,multiple,multiple,multiple,Salacia_prinoides|Indeterminated
+LQ-01-61-72_02_neg.mzML,V102634,2,negative,Sample,Celastraceae,Salacia,Salacia letestuana,Fruits,reproductive,green tissue,aboveground,Salacia_letestuana|Fruits
+LQ-01-61-73_02_neg.mzML,V109564,2,negative,Sample,Celastraceae,Tripterygium,Tripterygium hypoglacum,Roots,roots,root tissue,belowground,Tripterygium_hypoglacum |Roots
+LQ-01-61-74_02_neg.mzML,V107005,2,negative,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Roots,roots,root tissue,belowground,Tripterygium_wilfordii|Roots
+LQ-01-61-75_02_neg.mzML,V107006,2,negative,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Stems,woody vegetative,woody tissue ,aboveground,Tripterygium_wilfordii|Stems
+LQ-01-61-76_02_neg.mzML,NA,2,negative,Blank_process,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-78_02_neg.mzML,V113570,2,negative,Sample,Celastraceae,Reissantia ,Reissantia indica,Roots,roots,root tissue,belowground,Reissantia_indica|Roots
+LQ-01-61-01_03_neg.mzML,V107694 ,3,negative,Sample,Celastraceae,Catha,Catha edulis,Leaves,photosynthetic,green tissue,aboveground,Catha_edulis|Leaves
+LQ-01-61-02_03_neg.mzML,V107695,3,negative,Sample,Celastraceae,Catha,Catha edulis,Stems,woody vegetative,woody tissue ,aboveground,Catha_edulis|Stems
+LQ-01-61-03_03_neg.mzML,V107696,3,negative,Sample,Celastraceae,Catha,Catha edulis,Roots,roots,root tissue,belowground,Catha_edulis|Roots
+LQ-01-61-04_03_neg.mzML,V114502,3,negative,Sample,Celastraceae,Catha,Catha edulis,Aerial_parts,multiple,multiple,aboveground,Catha_edulis |Aerial_parts
+LQ-01-61-05_03_neg.mzML,V103080,3,negative,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Stems,woody vegetative,woody tissue ,aboveground,Celastrus_orbiculatus|Stems
+LQ-01-61-06_03_neg.mzML,V111863,3,negative,Sample,Celastraceae,Celastrus,Celastrus orbiculatus,Roots,roots,root tissue,belowground,Celastrus_orbiculatus|Roots
+LQ-01-61-07_03_neg.mzML,V100029,3,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Seeds,reproductive,green tissue,aboveground,Celastrus_paniculatus|Graines
+LQ-01-61-08_03_neg.mzML,V105603,3,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Leaves,photosynthetic,green tissue,aboveground,Celastrus_paniculatus|Leaves
+LQ-01-61-09_03_neg.mzML,V105604,3,negative,Sample,Celastraceae,Celastrus,Celastrus paniculatus,Bark_tronc,woody vegetative,woody tissue ,aboveground,Celastrus_paniculatus|Bark_tronc
+LQ-01-61-10_03_neg.mzML,V108295,3,negative,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Leaves,photosynthetic,green tissue,aboveground,Elaeodendron_schweinfurthianum|Leaves
+LQ-01-61-11_03_neg.mzML,V108296,3,negative,Sample,Celastraceae,Elaeodendron,Elaeodendron schweinfurthianum,Stems,woody vegetative,woody tissue ,aboveground,Elaeodendron_schweinfurthianum|Stems
+LQ-01-61-14_01_neg.mzML,V113979,1,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Underground_parts,multiple,multiple,belowground,Evonympsis_sp|Underground_parts
+LQ-01-61-14_02_neg.mzML,V113979,2,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Underground_parts,multiple,multiple,belowground,Evonympsis_sp|Underground_parts
+LQ-01-61-14_03_neg.mzML,V113979,3,negative,Sample,Celastraceae,Evonymopsis,Evonymopsis sp.,Underground_parts,multiple,multiple,belowground,Evonympsis_sp|Underground_parts
+LQ-01-61-15_03_neg.mzML,V104538,3,negative,Sample,Celastraceae,Euonymus,Euonymus alatus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_alatus|Stems
+LQ-01-61-16_03_neg.mzML,V104539,3,negative,Sample,Celastraceae,Euonymus,Euonymus alatus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_alatus|Leaves
+LQ-01-61-17_03_neg.mzML,V110858,3,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Roots,roots,root tissue,belowground,Euonymus_bockii|Roots
+LQ-01-61-18_03_neg.mzML,V110859,3,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_bockii|Stems
+LQ-01-61-19_03_neg.mzML,V110860,3,negative,Sample,Celastraceae,Euonymus,Euonymus bockii,Leaves,photosynthetic,green tissue,aboveground,Euonymus_bockii|Leaves
+LQ-01-61-20_03_neg.mzML,V105442,3,negative,Sample,Celastraceae,Euonymus,Euonymus bungeanus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_bungeanus|Stems
+LQ-01-61-21_03_neg.mzML,V116403,3,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Branche,woody vegetative,woody tissue,aboveground,Euonymus_cochinchinensis|Branche
+LQ-01-61-22_03_neg.mzML,V116404,3,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Roots,roots,root tissue,belowground,Euonymus_cochinchinensis|Roots
+LQ-01-61-23_03_neg.mzML,V116406,3,negative,Sample,Celastraceae,Euonymus,Euonymus cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_cochinchinensis|Leaves
+LQ-01-61-24_03_neg.mzML,V110861,3,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Roots,roots,root tissue,belowground,Euonymus_fertilis|Roots
+LQ-01-61-25_03_neg.mzML,V110862,3,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_fertilis|Stems
+LQ-01-61-26_03_neg.mzML,V110863,3,negative,Sample,Celastraceae,Euonymus,Euonymus fertilis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_fertilis|Leaves
+LQ-01-61-27_03_neg.mzML,V105253,3,negative,Sample,Celastraceae,Euonymus,Euonymus fortunei,Aerial_parts,multiple,multiple,aboveground,Euonymus_fortunei|Aerial_parts
+LQ-01-61-28_03_neg.mzML,V113153,3,negative,Sample,Celastraceae,Euonymus,Euonymus grandiflorus,Bark_Stems,woody vegetative,woody tissue ,aboveground,Euonymus_grandiflorus|Bark_Stems
+LQ-01-61-29_03_neg.mzML,V114337,3,negative,Sample,Celastraceae,Euonymus,Euonymus javanicus,Bark_tronc,woody vegetative,woody tissue,aboveground,Euonymus_javanicus|Bark_tronc
+LQ-01-61-30_03_neg.mzML,V114338,3,negative,Sample,Celastraceae,Euonymus,Euonymus javanicus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_javanicus|Leaves
+LQ-01-61-31_03_neg.mzML,V110309,3,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Roots,roots,root tissue,belowground,Euonymus_jinfoshanensis|Roots
+LQ-01-61-32_03_neg.mzML,V110310,3,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_jinfoshanensis|Stems
+LQ-01-61-33_03_neg.mzML,V110311,3,negative,Sample,Celastraceae,Euonymus,Euonymus jinfoshanensis,Leaves,photosynthetic,green tissue,aboveground,Euonymus_jinfoshanensis|Leaves
+LQ-01-61-34_03_neg.mzML,V111793,3,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Roots,roots,root tissue,belowground,Euonymus_myrianthus|Roots
+LQ-01-61-35_03_neg.mzML,V111794,3,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_myrianthus|Stems
+LQ-01-61-36_03_neg.mzML,V111795,3,negative,Sample,Celastraceae,Euonymus,Euonymus myrianthus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_myrianthus|Leaves
+LQ-01-61-37_03_neg.mzML,V111409,3,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Roots,roots,root tissue,belowground,Euonymus_sanguineus|Roots
+LQ-01-61-38_03_neg.mzML,V111410,3,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Stems,woody vegetative,woody tissue ,aboveground,Euonymus_sanguineus|Stems
+LQ-01-61-39_03_neg.mzML,V111411,3,negative,Sample,Celastraceae,Euonymus,Euonymus sanguineus,Leaves,photosynthetic,green tissue,aboveground,Euonymus_sanguineus|Leaves
+LQ-01-61-40_03_neg.mzML,V114012,3,negative,Sample,Celastraceae,Hippocratea,Hippocratea urceolus,Leaves,photosynthetic,green tissue,aboveground,Hippocratea_urceolus|Leaves
+LQ-01-61-41_03_neg.mzML,V107269,3,negative,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Stems,woody vegetative,woody tissue ,aboveground,Loeseneriella_concinna|Stems
+LQ-01-61-42_03_neg.mzML,V108472,3,negative,Sample,Celastraceae,Loeseneriella,Loeseneriella concinna,Leaves,photosynthetic,green tissue,aboveground,Loeseneriella_concinna|Leaves
+LQ-01-61-43_03_neg.mzML,V108332,3,negative,Sample,Celastraceae,Maytenus,Maytenus buchananii,Leaves,photosynthetic,green tissue,aboveground,Maytenus_buchananii|Leaves
+LQ-01-61-44_03_neg.mzML,V108333,3,negative,Sample,Celastraceae,Maytenus,Maytenus buchananii,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_buchananii|Stems
+LQ-01-61-45_03_neg.mzML,V101528,3,negative,Sample,Celastraceae,Maytenus,Maytenus cymosus,Bark_Stems,woody vegetative,woody tissue,aboveground,Maytenus_cymosus|Bark_Stems
+LQ-01-61-46_03_neg.mzML,V113998,3,negative,Sample,Celastraceae,Maytenus,Maytenus linearis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_linearis|Leaves
+LQ-01-61-47_03_neg.mzML,V113999,3,negative,Sample,Celastraceae,Maytenus,Maytenus linearis,Underground_parts,multiple,multiple,belowground,Maytenus_linearis|Underground_parts
+LQ-01-61-48_03_neg.mzML,V105100,3,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_mekongensis|Leaves
+LQ-01-61-49_03_neg.mzML,V105101,3,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_mekongensis|Stems
+LQ-01-61-50_03_neg.mzML,V105102,3,negative,Sample,Celastraceae,Maytenus,Maytenus mekongensis,Roots,roots,root tissue,belowground,Maytenus_mekongensis|Roots
+LQ-01-61-51_03_neg.mzML,V106281,3,negative,Sample,Celastraceae,Maytenus,Maytenus polycantha,Aerial_parts,multiple,multiple,aboveground,Maytenus_polycantha|Aerial_parts
+LQ-01-61-52_03_neg.mzML,V116016,3,negative,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Leaves,photosynthetic,green tissue,aboveground,Maytenus_senegalensis|Leaves
+LQ-01-61-53_03_neg.mzML,V116017,3,negative,Sample,Celastraceae,Maytenus,Maytenus senegalensis,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_senegalensis|Stems
+LQ-01-61-54_03_neg.mzML,V105698,3,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Leaves,photosynthetic,green tissue,aboveground,Maytenus_undata|Leaves
+LQ-01-61-55_03_neg.mzML,V105699,3,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Stems,woody vegetative,woody tissue ,aboveground,Maytenus_undata|Stems
+LQ-01-61-56_03_neg.mzML,V109319,3,negative,Sample,Celastraceae,Maytenus,Maytenus undata,Roots,roots,root tissue,belowground,Maytenus_undata|Roots
+LQ-01-61-57_03_neg.mzML,V107914,3,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Roots,roots,root tissue,belowground,Microtropis_triflora|Roots
+LQ-01-61-58_03_neg.mzML,V107915,3,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Stems,woody vegetative,woody tissue ,aboveground,Microtropis_triflora|Stems
+LQ-01-61-59_03_neg.mzML,V107916,3,negative,Sample,Celastraceae,Microtropis,Microtropis triflora,Leaves,photosynthetic,green tissue,aboveground,Microtropis_triflora|Leaves
+LQ-01-61-60_03_neg.mzML,V102807,3,negative,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Bark_Stems,woody vegetative,woody tissue ,aboveground,Mystroxylon_aethiopicum|Bark_Stems
+LQ-01-61-61_03_neg.mzML,V103478,3,negative,Sample,Celastraceae,Mystroxylon,Mystroxylon aethiopicum,Leaves,photosynthetic,green tissue,aboveground,Mystroxylon_aethiopicum|Leaves
+LQ-01-61-62_03_neg.mzML,V107716,3,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia africana,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_africana|Leaves
+LQ-01-61-63_03_neg.mzML,V100713,3,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Stems,woody vegetative,woody tissue ,aboveground,Pleurostylia_pachyphloe|Stems
+LQ-01-61-64_03_neg.mzML,V100727,3,negative,Sample,Celastraceae,Pleurostylia,Pleurostylia pachyphloe,Leaves,photosynthetic,green tissue,aboveground,Pleurostylia_pachyphloe|Leaves
+LQ-01-61-65_03_neg.mzML,V113494,3,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_chinensis|Leaves
+LQ-01-61-66_03_neg.mzML,V113495,3,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Branche,woody vegetative,woody tissue ,aboveground,Salacia_chinensis|Branche
+LQ-01-61-67_03_neg.mzML,V113496,3,negative,Sample,Celastraceae,Salacia,Salacia chinensis,Roots,roots,root tissue,belowground,Salacia_chinensis|Roots
+LQ-01-61-68_03_neg.mzML,V114998,3,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Leaves,photosynthetic,green tissue,aboveground,Salacia_cochinchinensis|Leaves
+LQ-01-61-69_03_neg.mzML,V114999,3,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Branche,woody vegetative,woody tissue ,aboveground,Salacia_cochinchinensis|Branche
+LQ-01-61-70_03_neg.mzML,V115000,3,negative,Sample,Celastraceae,Salacia,Salacia cochinchinensis,Underground_parts,multiple,multiple,belowground,Salacia_cochinchinensis|Underground_parts
+LQ-01-61-71_03_neg.mzML,V102387,3,negative,Sample,Celastraceae,Salacia,Salacia prinoides,Indeterminated,multiple,multiple,multiple,Salacia_prinoides|Indeterminated
+LQ-01-61-72_03_neg.mzML,V102634,3,negative,Sample,Celastraceae,Salacia,Salacia letestuana,Fruits,reproductive,green tissue,aboveground,Salacia_letestuana|Fruits
+LQ-01-61-73_03_neg.mzML,V109564,3,negative,Sample,Celastraceae,Tripterygium,Tripterygium hypoglacum,Roots,roots,root tissue,belowground,Tripterygium_hypoglacum |Roots
+LQ-01-61-74_03_neg.mzML,V107005,3,negative,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Roots,roots,root tissue,belowground,Tripterygium_wilfordii|Roots
+LQ-01-61-75_03_neg.mzML,V107006,3,negative,Sample,Celastraceae,Tripterygium,Tripterygium wilfordii,Stems,woody vegetative,woody tissue ,aboveground,Tripterygium_wilfordii|Stems
+LQ-01-61-76_03_neg.mzML,NA,3,negative,Blank_process,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-01-61-78_03_neg.mzML,V113570,3,negative,Sample,Celastraceae,Reissantia ,Reissantia indica,Roots,roots,root tissue,belowground,Reissantia_indica|Roots
+LQ-QC-01_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-01_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-02_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-02_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-03_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-03_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-04_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-04_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-05_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-05_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-06_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-06_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-07_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-07_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-08_02_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
+LQ-QC-08_03_neg.mzML,NA,3,negative,QC,NA,NA,NA,NA,NA,NA,NA,NA
